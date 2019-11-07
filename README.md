@@ -7,7 +7,8 @@ the blank tiles to complete the State's name.  Each user wil have 10 guesses to
 get the correct State before losing the game.
 
 ### SCREENSHOTS
-
+* ![Screenshot]()
+* ![Screenshot]()
 
 ### TECHNOLOGIES USED
 * Javascript, Node
